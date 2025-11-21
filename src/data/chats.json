@@ -1,0 +1,29 @@
+{
+  "u1": [
+    { "id": "m1", "user": "Afsana Akter", "text": "Hi — welcome to the demo chat", "created_at": "2025-11-18T08:00:00.000Z" },
+    { "id": "m2", "user": "You", "text": "Thanks! Great to be here.", "created_at": "2025-11-18T08:01:00.000Z" }
+  ],
+  "u2": [
+    { "id": "m3", "user": "Rafi Ahmed", "text": "I uploaded the file.", "created_at": "2025-11-17T12:10:00.000Z" }
+  ],
+  "g1": [
+    { "id": "m4", "user": "Mina Khatun", "text": "Team, new mockups are in drive.", "created_at": "2025-11-16T09:30:00.000Z" },
+    { "id": "m5", "user": "You", "text": "I'll review them today.", "created_at": "2025-11-16T09:45:00.000Z" }
+  ],
+  "u3": [
+    { "id": "m6", "user": "Mina Khatun", "text": "See you in the meeting.", "created_at": "2025-11-18T07:50:00.000Z" }
+  ]
+  ,
+  "u4": [ { "id": "m7", "user": "Imran Hossain", "text": "Can we reschedule?", "created_at": "2025-11-17T10:00:00.000Z" } ],
+  "u5": [ { "id": "m8", "user": "Sadia Noor", "text": "Thanks for the update!", "created_at": "2025-11-16T11:12:00.000Z" } ],
+  "u6": [ { "id": "m9", "user": "Arif Khan", "text": "I'll share notes soon.", "created_at": "2025-11-15T09:20:00.000Z" } ],
+  "u7": [ { "id": "m10", "user": "Farhana Islam", "text": "Looking good 👍", "created_at": "2025-11-14T08:45:00.000Z" } ],
+  "u8": [ { "id": "m11", "user": "Team Ops", "text": "Standup in 10 minutes.", "created_at": "2025-11-18T08:30:00.000Z" } ],
+  "u9": [ { "id": "m12", "user": "Rasel", "text": "Received, thanks.", "created_at": "2025-11-13T07:00:00.000Z" } ],
+  "u10": [ { "id": "m13", "user": "Lina Roy", "text": "Let's finalize tomorrow.", "created_at": "2025-11-12T14:00:00.000Z" } ],
+  "u11": [ { "id": "m14", "user": "Prod Team", "text": "Release scheduled.", "created_at": "2025-11-11T09:00:00.000Z" } ],
+  "u12": [ { "id": "m15", "user": "Nazmul", "text": "Ping me later.", "created_at": "2025-11-10T13:20:00.000Z" } ],
+  "u13": [ { "id": "m16", "user": "Ruma", "text": "Got it ✅", "created_at": "2025-11-09T16:30:00.000Z" } ],
+  "u14": [ { "id": "m17", "user": "Analytics", "text": "Dashboard updated.", "created_at": "2025-11-08T10:10:00.000Z" } ],
+  "u15": [ { "id": "m18", "user": "Raihan", "text": "On my way.", "created_at": "2025-11-07T18:45:00.000Z" } ]
+}

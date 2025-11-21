@@ -1,0 +1,45 @@
+{
+  "u1": {
+    "media": [
+      { "id": "img1", "url": "https://picsum.photos/seed/af1/800/600", "caption": "Project moodboard" },
+      { "id": "img2", "url": "https://picsum.photos/seed/af2/800/600", "caption": "Office snapshot" },
+      { "id": "img3", "url": "https://picsum.photos/seed/af3/800/600", "caption": "Nature reference" }
+    ],
+    "files": [
+      { "id": "f1", "name": "brief.pdf", "size": "1.2 MB", "url": "#" },
+      { "id": "f2", "name": "wireframes.zip", "size": "3.4 MB", "url": "#" }
+    ],
+    "links": [
+      { "id": "l1", "title": "Design Board", "url": "https://example.com/designs" },
+      { "id": "l2", "title": "Shared Drive Folder", "url": "https://drive.example/folder" }
+    ]
+  },
+  "u2": {
+    "media": [
+      { "id": "img4", "url": "https://picsum.photos/seed/rf1/800/600", "caption": "Product shot" }
+    ],
+    "files": [
+      { "id": "f3", "name": "report.pdf", "size": "560 KB", "url": "#" }
+    ],
+    "links": [
+      { "id": "l3", "title": "Client assets", "url": "https://assets.example/client" }
+    ]
+  },
+  "g1": {
+    "media": [
+      { "id": "img5", "url": "https://picsum.photos/seed/g1/800/600", "caption": "Mockup v1" },
+      { "id": "img6", "url": "https://picsum.photos/seed/g2/800/600", "caption": "Mockup v2" }
+    ],
+    "files": [
+      { "id": "f4", "name": "team_notes.docx", "size": "240 KB", "url": "#" }
+    ],
+    "links": [
+      { "id": "l4", "title": "Sprint board", "url": "https://example.com/sprint" }
+    ]
+  },
+  "u3": {
+    "media": [],
+    "files": [],
+    "links": []
+  }
+}

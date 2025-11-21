@@ -1,0 +1,115 @@
+[
+  {
+    "id": "u1",
+    "name": "Afsana Akter",
+    "status": "online",
+    "lastMessage": "Let's review the notes tomorrow.",
+    "avatar": "https://i.pravatar.cc/100?img=32"
+  },
+  {
+    "id": "u2",
+    "name": "Rafi Ahmed",
+    "status": "offline",
+    "lastMessage": "Sent the file.",
+    "avatar": "https://i.pravatar.cc/100?img=12"
+  },
+  {
+    "id": "g1",
+    "name": "Design Team (Group)",
+    "status": "3 members",
+    "lastMessage": "New mockups uploaded.",
+    "avatar": "https://images.unsplash.com/photo-1522071820081-009f0129c71c?w=100&h=100&crop=faces&fit=crop"
+  },
+  {
+    "id": "u3",
+    "name": "Mina Khatun",
+    "status": "online",
+    "lastMessage": "I'll join in 5 minutes.",
+    "avatar": "https://i.pravatar.cc/100?img=45"
+  }
+  ,
+  {
+    "id": "u4",
+    "name": "Imran Hossain",
+    "status": "offline",
+    "lastMessage": "Can we reschedule?",
+    "avatar": "https://i.pravatar.cc/100?img=5"
+  },
+  {
+    "id": "u5",
+    "name": "Sadia Noor",
+    "status": "online",
+    "lastMessage": "Thanks for the update!",
+    "avatar": "https://i.pravatar.cc/100?img=15"
+  },
+  {
+    "id": "u6",
+    "name": "Arif Khan",
+    "status": "offline",
+    "lastMessage": "I'll share notes soon.",
+    "avatar": "https://i.pravatar.cc/100?img=22"
+  },
+  {
+    "id": "u7",
+    "name": "Farhana Islam",
+    "status": "online",
+    "lastMessage": "Looking good 👍",
+    "avatar": "https://i.pravatar.cc/100?img=18"
+  },
+  {
+    "id": "u8",
+    "name": "Team Ops",
+    "status": "5 members",
+    "lastMessage": "Standup in 10 minutes.",
+    "avatar": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?w=100&h=100&crop=faces&fit=crop"
+  },
+  {
+    "id": "u9",
+    "name": "Rasel",
+    "status": "offline",
+    "lastMessage": "Received, thanks.",
+    "avatar": "https://i.pravatar.cc/100?img=7"
+  },
+  {
+    "id": "u10",
+    "name": "Lina Roy",
+    "status": "online",
+    "lastMessage": "Let's finalize tomorrow.",
+    "avatar": "https://i.pravatar.cc/100?img=30"
+  },
+  {
+    "id": "u11",
+    "name": "Prod Team",
+    "status": "12 members",
+    "lastMessage": "Release scheduled.",
+    "avatar": "https://images.unsplash.com/photo-1522075469751-3a6694fb2f61?w=100&h=100&crop=faces&fit=crop"
+  },
+  {
+    "id": "u12",
+    "name": "Nazmul",
+    "status": "offline",
+    "lastMessage": "Ping me later.",
+    "avatar": "https://i.pravatar.cc/100?img=9"
+  },
+  {
+    "id": "u13",
+    "name": "Ruma",
+    "status": "online",
+    "lastMessage": "Got it ✅",
+    "avatar": "https://i.pravatar.cc/100?img=11"
+  },
+  {
+    "id": "u14",
+    "name": "Analytics",
+    "status": "2 members",
+    "lastMessage": "Dashboard updated.",
+    "avatar": "https://images.unsplash.com/photo-1545996124-f37f0f3ce9d3?w=100&h=100&crop=faces&fit=crop"
+  },
+  {
+    "id": "u15",
+    "name": "Raihan",
+    "status": "offline",
+    "lastMessage": "On my way.",
+    "avatar": "https://i.pravatar.cc/100?img=27"
+  }
+]
